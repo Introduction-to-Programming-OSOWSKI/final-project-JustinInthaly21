@@ -19,4 +19,5 @@ def doubleWord(w):
     return w + w 
 
 def penguin(p):
-    
+    return p 
+
